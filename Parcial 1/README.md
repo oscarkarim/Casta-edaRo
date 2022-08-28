@@ -37,7 +37,9 @@
 
 - **Primaria y secundaria**: Colegio México
 - **Preparatoria**: IAES (Instituto América de Estudios Superiores)
-- **Universidad**: carrera trunca en ingeniero en tecnología de software en la Faculta de Ingeniería Mecánica y Eléctrica de la UANL
+- **Universidad**: 
+  - carrera trunca en ingeniero en tecnología de software en la Faculta de Ingeniería Mecánica y Eléctrica de la UANL
+  - cursando actualmente la carrera de Ingeniero en Sistemas Computacionales en el ITNL.
 
 ### **Hobbies** 🕹️🎵🎸
 - Escuchar música y podcasts
